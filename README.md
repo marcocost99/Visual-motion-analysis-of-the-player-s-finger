@@ -5,7 +5,7 @@ Link to the publication: https://arxiv.org/abs/2303.12697 .
 
 <img width="200" alt="song1_hand_motion_detection_side_view" src="https://github.com/user-attachments/assets/21a04e7e-d700-4372-8551-50bfc3ccc2cf">
 <img width="200" alt="song1_hand_motion_detection_side_view_dehaze_filter_applied" src="https://github.com/user-attachments/assets/3a54ae62-2948-4fb0-a219-04392b7d4cb5">
-<img width="300" alt="song1_hand_motion_detection" src="https://github.com/user-attachments/assets/7bf842b7-5890-4cdf-9e8c-043eddd7605b">
+<img width="450" alt="song1_hand_motion_detection" src="https://github.com/user-attachments/assets/7bf842b7-5890-4cdf-9e8c-043eddd7605b">
 <img width="200" alt="song2_finger_motion_detection_upper_view_dehaze_filter_applied" src="https://github.com/user-attachments/assets/fb74cd88-2554-45ef-b2a8-b998553e6b93">
 <img width="200" alt="song2_finger_motion_detection_center_of_the_palm_right_hand" src="https://github.com/user-attachments/assets/00e5e617-caac-4971-adfb-fef506531c26">
 <img width="200" alt="song2_finger_motion_detection_center_of_the_palm_left_hand" src="https://github.com/user-attachments/assets/4e54fa17-736e-4b0c-b990-5c16ce539019">
