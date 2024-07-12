@@ -1,0 +1,71 @@
+pressed keys:
+
+
+time: 1.50s ; pressed keys: C3, E3, G3, C4, E4, G4 
+
+time: 4.00s ; pressed keys: D3, F3b, A3, D4, F4b, A4
+
+time: 7.00s ; pressed keys: E3, G3b, B3, E4, G4b, B4 
+
+time: 9.20s ; pressed keys: F3, A3, C4, F4, A4, C5 
+
+time: 12.00s ; pressed keys: G3, B3, D4, G4, B4, D5 
+
+time: 15.00s ; pressed keys: A3, C4b, E4, A3, C4b, E5
+
+time: 19.00s ; pressed keys: B3, D4, F4, B4, D5, F5  
+
+time: 24.12s ; pressed keys: C3  
+
+time: 24.18s ; pressed keys: C3b
+
+time: 25.00s ; pressed keys: D3
+
+time: 25.08s ; pressed keys: Db3 
+
+time: 25.17s ; pressed keys: E3 
+
+time: 26.00s ; pressed keys: F3  
+
+time: 26.07s ; pressed keys: F3b 
+
+time: 26.14s ; pressed keys: G3 
+
+time: 26.21s ; pressed keys: G3b 
+
+time: 27.03s ; pressed keys: A3
+
+time: 27.09s ; pressed keys: A3b
+
+time: 27.20s ; pressed keys: B3
+
+time: 28.07s ; pressed keys: C4
+
+time: 28.14s ; pressed keys: C4b
+
+time: 28.22s ; pressed keys: D4
+
+time: 29.08s ; pressed keys: D4b
+
+time: 30.05s ; pressed keys: E4
+
+time: 30.12s ; pressed keys: F4
+
+time: 30.19s ; pressed keys: F4b
+
+time: 31.01s ; pressed keys: G4
+
+time: 31.08s ; pressed keys: G4b
+
+time: 31.17s ; pressed keys: A4
+
+time: 31.23s ; pressed keys: A4b
+
+time: 32.08s ; pressed keys: B4
+
+
+
+  
+
+
+ 
