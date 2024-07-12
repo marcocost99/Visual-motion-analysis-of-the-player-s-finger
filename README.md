@@ -11,9 +11,10 @@ Link to the publication: https://arxiv.org/abs/2303.12697 .
 <img width="200" alt="song2_finger_motion_detection_center_of_the_palm_left_hand" src="https://github.com/user-attachments/assets/4e54fa17-736e-4b0c-b990-5c16ce539019">
 <img width="200" alt="song2_finger_motion_detection_fingers_extracted_left_hand" src="https://github.com/user-attachments/assets/46da759c-0c23-4c32-b47d-8b8d6815d9f7">
 <img width="200" alt="song2_finger_motion_detection_fingers_extracted_right_hand" src="https://github.com/user-attachments/assets/71632d25-4a1f-4b36-aee2-f9b0738ed6a8">
+<img width="200" alt="song2_finger_motion_detection_fingers_extracted_side_view" src="https://github.com/user-attachments/assets/76c02825-9421-448c-b237-eb3ee6341ee7">
 <img width="200" alt="song2_finger_motion_detection_side_view_dehaze_filter_applied" src="https://github.com/user-attachments/assets/40be8fa9-7747-433f-9c9e-6e06ccf23c0a">
 <img width="200" alt="song2_finger_motion_detection_side_view" src="https://github.com/user-attachments/assets/ac87512e-2c5c-4869-b9b9-4d0719fae158">
-<img width="200" alt="song2_finger_motion_detection_fingers_extracted_side_view" src="https://github.com/user-attachments/assets/76c02825-9421-448c-b237-eb3ee6341ee7">
+
 <img width="200" alt="song2_finger_motion_detection_left_hand_center_palm_edges_extracted" src="https://github.com/user-attachments/assets/1d947cb9-7c66-4926-a1c3-65d76e0e9e0f">
 <img width="200" alt="song2_finger_motion_detection_left_hand_distance_transform" src="https://github.com/user-attachments/assets/52347092-d5d3-4fc9-90ed-be706cc65432">
 <img width="200" alt="song2_finger_motion_detection_side_view_distance_transform" src="https://github.com/user-attachments/assets/d0d05862-a63a-425e-9d4c-443faafdf91d">
