@@ -1,0 +1,33 @@
+ans = 
+
+    "Keys pressed: A4;  at 3.586 sec"
+
+
+ans = 
+
+    "Keys pressed: A4;  at 3.586 sec"
+
+
+ans = 
+
+    "Keys pressed: D4; A4; F4b;  at 3.621 sec"
+
+
+ans = 
+
+    "Keys pressed: D4; A4; F4b;  at 3.621 sec"
+
+
+ans = 
+
+    "Keys pressed: A3; D4; F4b; A4; F3b; A4; A3;  at 3.655 sec"
+
+
+ans = 
+
+    "Keys pressed: F3b; A3; F4b; D4; D3; A4;  at 3.690 sec"
+
+
+ans = 
+
+    "Keys pressed: F3b; A3; F4b; D4; D3; A4;  at 3.690 sec"

@@ -1,0 +1,44 @@
+
+ans = 
+
+    "Keys pressed: C3;  at 24.413 sec"
+
+
+ans = 
+
+    "Keys pressed: C3;  at 24.482 sec"
+
+
+ans = 
+
+    "Keys pressed: C3;  at 24.516 sec"
+
+
+ans = 
+
+    "Keys pressed: C3b;  at 24.723 sec"
+
+
+ans = 
+
+    "Keys pressed: C3b; C3b;  at 24.758 sec"
+
+
+ans = 
+
+    "Keys pressed: C3b;  at 24.827 sec"
+
+
+ans = 
+
+    "Keys pressed: D3;  at 25.103 sec"
+
+
+ans = 
+
+    "Keys pressed: D3b;  at 25.275 sec"
+
+
+ans = 
+
+    "Keys pressed: D3b;  at 25.310 sec"

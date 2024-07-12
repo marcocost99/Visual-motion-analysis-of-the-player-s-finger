@@ -1,0 +1,73 @@
+ans = 
+
+    "Keys pressed: E3;  at 25.551 sec"
+
+
+ans = 
+
+    "Keys pressed: F3;  at 25.930 sec"
+
+
+ans = 
+
+    "Keys pressed: F3;  at 25.965 sec"
+
+
+ans = 
+
+    "Keys pressed: F3b;  at 26.206 sec"
+
+
+ans = 
+
+    "Keys pressed: F3b;  at 26.309 sec"
+
+
+ans = 
+
+    "Keys pressed: G3;  at 26.482 sec"
+
+
+ans = 
+
+    "Keys pressed: G3;  at 26.516 sec"
+
+
+ans = 
+
+    "Keys pressed: G3;  at 26.551 sec"
+
+
+ans = 
+
+    "Keys pressed: G3b;  at 26.758 sec"
+
+
+ans = 
+
+    "Keys pressed: A3;  at 27.034 sec"
+
+
+ans = 
+
+    "Keys pressed: A3b;  at 27.378 sec"
+
+
+ans = 
+
+    "Keys pressed: A3b;  at 27.413 sec"
+
+
+ans = 
+
+    "Keys pressed: A3b;  at 27.482 sec"
+
+
+ans = 
+
+    "Keys pressed: B3;  at 27.654 sec"
+
+
+ans = 
+
+    "Keys pressed: B3;  at 27.827 sec"
