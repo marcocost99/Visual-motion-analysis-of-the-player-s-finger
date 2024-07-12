@@ -18,5 +18,3 @@ Link to the publication: https://arxiv.org/abs/2303.12697 .
 <img width="200" alt="song2_finger_motion_detection_side_view" src="https://github.com/user-attachments/assets/ac87512e-2c5c-4869-b9b9-4d0719fae158">
 
 
-<img width="200" alt="song2_finger_motion_detection_left_hand_distance_transform" src="https://github.com/user-attachments/assets/52347092-d5d3-4fc9-90ed-be706cc65432">
-<img width="200" alt="song2_finger_motion_detection_side_view_distance_transform" src="https://github.com/user-attachments/assets/d0d05862-a63a-425e-9d4c-443faafdf91d">
